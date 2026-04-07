@@ -40,7 +40,7 @@ Currently diving deep into **Data Science & AI** to build smarter, more impactfu
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | 🎨 UI/UX Design Project | *(Add your Figma project here)* | Figma |
-| 🖼️ Graphics Design Work | *(Add your design work here)* | Adobe / Canva |
+| 🖼️ Graphics Design Work | *(https://drive.google.com/drive/folders/1VRevJj8vK25D2ix5RDoplax4R0gxggNO?usp=drive_link)* | Adobe / Canva |
 | 🌐 Portfolio Website | My personal portfolio | HTML, CSS, JS |
 
 > 💬 *More projects coming soon — currently building!*
