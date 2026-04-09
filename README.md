@@ -49,7 +49,7 @@ Currently diving deep into **Data Science & AI** to build smarter, more impactfu
 
 ## 📊 GitHub Stats
 
-![Aabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Aabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aripanyadav&show_icons=true&theme=default&hide_border=true)
 
 ---
 
