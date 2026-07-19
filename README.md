@@ -11,7 +11,7 @@ Currently diving deep into **Data Science & AI** to build smarter, more impactfu
 - 🎯 Looking for **freelance projects** and **job opportunities**
 - 🌱 Currently learning **Data Science with AI**
 - 💡 Building impactful digital products that solve real problems
-- 📫 Reach me: **aabiyaduwanshi487@gmail.com**
+- 📫 Reach me: **aripan.yaduwanshi@gmail.com**
 
 ---
 
